@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian Sylvain</h1>
-<h3 align="center">Computer Science from France</h3>
+<h3 align="center">Computer Science student from France</h3>
 
 - 🔭 I’m currently working on [Risitas Bot](https://github.com/Floriansylvain/Risitas_BOT)
 
