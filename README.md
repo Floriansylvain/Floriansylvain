@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://floriansylvain.fr](https://andhefallen.site)
+- 👨‍💻 All of my projects are available at [https://floriansylvain.fr](https://floriansylvain.fr)
 
 - 📫 How to reach me **floriansylvainpro@gmail.com**
 
