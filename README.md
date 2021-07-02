@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Risitas Bot](https://github.com/Floriansylvain/Risitas_BOT)
 
-- 🌱 I’m currently learning **OOP in Java / C, DB with PostgreSQL / PhP**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://floriansylvain.fr](https://andhefallen.site)
 
