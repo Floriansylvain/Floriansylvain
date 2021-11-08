@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Florian Sylvain</h1>
 <h3 align="center">Computer Science student in France</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=floriansylvain&show_icons=true&locale=en" alt="floriansylvain" /></p>
+<p align="center">
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=floriansylvain&show_icons=true&locale=en" alt="floriansylvain" />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriansylvain&show_icons=true&locale=en&layout=compact" alt="floriansylvain" />
+</p>
 
-<div align="center">
+<hr>
+
+<div>
   
 🔭 I’m currently working on **a school web project (mostly written in PHP, Ajax)**
 
@@ -16,14 +21,14 @@
 ⚡ Fun fact : **C is not that bad**
 </div>
   
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h2 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/florian-sylvain-0651021a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian-sylvain-0651021a9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15141142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15141142" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h2 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -41,5 +46,3 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriansylvain&show_icons=true&locale=en&layout=compact" alt="floriansylvain" /></p>
