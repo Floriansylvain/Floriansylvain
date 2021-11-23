@@ -10,9 +10,9 @@
 
 <div>
   
-🔭 I’m currently working on **a school web project (mostly written in PHP, Ajax)**
+🔭 I’m currently working on **Risiverse**
 
-🌱 I’m currently learning **Clean Code / Clean Architecture**
+🌱 I’m currently learning **Golang**
 
 👨‍💻 All of my projects are available at [floriansylvain.fr](https://floriansylvain.fr)
 
