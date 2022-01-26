@@ -12,7 +12,7 @@
   
 🔭 I’m currently working on **Risiverse**
 
-🌱 I’m currently learning **Golang**
+🌱 I’m currently learning **Golang**, **VueJs**
 
 👨‍💻 All of my projects are available at [floriansylvain.fr](https://floriansylvain.fr)
 
