@@ -12,7 +12,7 @@
   
 🔭 I’m currently working on my **[Portfolio](https://github.com/Floriansylvain/portfolio)**
 
-🌱 I’m currently learning **C++**, **SFML**
+🌱 I’m currently learning *VueJs**, **NodeJS**
 
 👨‍💻 All of my projects are available at [floriansylvain.fr](https://floriansylvain.fr)
 
