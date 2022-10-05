@@ -12,13 +12,11 @@
   
 🔭 I’m currently working on my **[risichat-back](https://github.com/Risiverse/risichat-back)**
 
-🌱 I’m currently learning **VueJs**, **NodeJS**
+🌱 I’m currently learning **Go**
 
 👨‍💻 All of my projects are available at [floriansylvain.fr](https://floriansylvain.fr)
 
 📫 How to reach me : **floriansylvainpro@gmail.com**
-
-⚡ Fun fact : **C is not that bad**
 </div>
   
 <h2 align="left">Connect with me:</h3>
