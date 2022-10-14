@@ -2,8 +2,8 @@
 <h3 align="center">Computer Science student in France</h3>
 
 <p align="center">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=floriansylvain&show_icons=true&locale=en" alt="floriansylvain" />
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriansylvain&show_icons=true&locale=en&layout=compact" alt="floriansylvain" />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=floriansylvain&show_icons=true&locale=en&theme=dark" alt="floriansylvain" />
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriansylvain&show_icons=true&locale=en&layout=compact&theme=dark" alt="floriansylvain" />
 </p>
 
 <hr>
