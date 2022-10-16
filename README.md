@@ -10,7 +10,7 @@
 
 <div>
   
-🔭 I’m currently working on my **[risichat-back](https://github.com/Risiverse/risichat-back)**
+🔭 I’m currently working on my **[risichat-back](https://github.com/Risiverse/risichat-back)**, **[GohCMS](https://github.com/Floriansylvain/GohCMS)**
 
 🌱 I’m currently learning **Go**
 
