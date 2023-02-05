@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian Sylvain</h1>
-<h3 align="center">Computer Science student in France</h3>
+<h3 align="center">Web dev student in France</h3>
 
 <div>
   
