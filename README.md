@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Domain Driven Design** architecture.
 
-📫 How to reach me : **floriansylvainpro@gmail.com**
+📫 How to reach me : **sylvainflorian@proton.me**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florian-sylvain-0651021a9) 
