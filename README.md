@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on [GoCMS](https://github.com/Floriansylvain/GoCMS)
-🌱 I’m currently learning **Domain Driven Design** architecture.
+🔭 I’m currently working on [Banlieues Santé](https://github.com/banlieues-sante)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
